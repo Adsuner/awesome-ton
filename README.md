@@ -240,6 +240,7 @@ A carefully curated collection of outstanding libraries, tools, services, protoc
 - [twa-dev/boilerplate](https://github.com/twa-dev/Boilerplate) - Starter boilerplate for TWAs.
 - [twa-dev/sdk](https://github.com/twa-dev/sdk) - SDK package for TWA development.
 - [twa-dev/Mark42](https://github.com/twa-dev/Mark42) - UI library optimized for TWAs.
+- [Adsun](https://adsun.io) - Ad network for TWAs: rewarded, interstitial and task ads with USDT payouts to TON wallets ([SDK examples](https://github.com/Adsuner/adsun-telegram-sdk)).
 
 ### API Services
 - [TONX API](https://www.notion.so/TONX-TONX-API-TONX-Lab-f9e86e5382604c6193a2ef2243b283fc?pvs=21) - Enterprise-grade API platform.
